@@ -1,0 +1,3 @@
+-basic HTML webpage that shows split of reviews based on few catogories like "taste" etd. . uses modified sentiment analysis code(reviewtypesplit file).
+-Django is used to connect both html and python(reviewtypesplit) code.
+-sentiment analysis using amazon fine food reviews data. file name-Amazon Fine Food Reviews Analysis
